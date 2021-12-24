@@ -100,6 +100,12 @@ public class ExchangeRateServiceImpl implements ExchangeRateService {
         return getConvertedAmount(forex1, forex2, amount);
     }
 
+    /**
+     * Get the generated pair link for currency pair
+     * @param currency1
+     * @param currency2
+     * @return
+     */
     @Override
     public String getCurrencyPairLink(String currency1, String currency2) {
         if (currency1.equals(currency2)) {
