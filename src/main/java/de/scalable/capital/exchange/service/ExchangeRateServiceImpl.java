@@ -104,7 +104,7 @@ public class ExchangeRateServiceImpl implements ExchangeRateService {
      * Get the generated pair link for currency pair
      * @param currency1
      * @param currency2
-     * @return
+     * @return generated url
      */
     @Override
     public String getCurrencyPairLink(String currency1, String currency2) {
