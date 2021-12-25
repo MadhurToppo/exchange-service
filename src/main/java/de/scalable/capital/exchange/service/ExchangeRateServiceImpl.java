@@ -16,7 +16,7 @@ public class ExchangeRateServiceImpl implements ExchangeRateService {
     private ExchangeRateRepository exchangeRateRepository;
 
     /**
-     * This method add a list of currencies with rates and adds it to the repository in the database
+     * This method add a list of currencies with rates and adds it to the database
      * @param currencies
      * @return
      */
