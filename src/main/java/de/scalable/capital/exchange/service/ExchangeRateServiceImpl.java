@@ -76,7 +76,7 @@ public class ExchangeRateServiceImpl implements ExchangeRateService {
     }
 
     /**
-     * Gets a list of all currencies
+     * Gets a list of all currencies from the database
      * @return
      */
     @Override
