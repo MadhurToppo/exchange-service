@@ -1,4 +1,4 @@
-package de.scalable.capital.exchange;
+package com.madhurtoppo.exchange;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

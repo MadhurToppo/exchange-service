@@ -1,5 +1,4 @@
-package de.scalable.capital.exchange.exception;
-
+package com.madhurtoppo.exchange.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

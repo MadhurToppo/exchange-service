@@ -1,7 +1,8 @@
-package de.scalable.capital.exchange.service;
+package com.madhurtoppo.exchange.service;
 
-import de.scalable.capital.exchange.model.CurrencyPair;
-import de.scalable.capital.exchange.model.Forex;
+import com.madhurtoppo.exchange.model.Forex;
+import com.madhurtoppo.exchange.model.CurrencyPair;
+
 import java.util.List;
 
 public interface ExchangeRateService {

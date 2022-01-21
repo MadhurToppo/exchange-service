@@ -1,6 +1,6 @@
-package de.scalable.capital.exchange.repository;
+package com.madhurtoppo.exchange.repository;
 
-import de.scalable.capital.exchange.model.Forex;
+import com.madhurtoppo.exchange.model.Forex;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ExchangeRateRepository extends JpaRepository<Forex, Integer> {

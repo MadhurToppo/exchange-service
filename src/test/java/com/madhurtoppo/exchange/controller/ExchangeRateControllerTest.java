@@ -1,9 +1,9 @@
-package de.scalable.capital.exchange.controller;
+package com.madhurtoppo.exchange.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import de.scalable.capital.exchange.model.CurrencyPair;
-import de.scalable.capital.exchange.model.Forex;
-import de.scalable.capital.exchange.service.ExchangeRateService;
+import com.madhurtoppo.exchange.model.Forex;
+import com.madhurtoppo.exchange.service.ExchangeRateService;
+import com.madhurtoppo.exchange.model.CurrencyPair;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

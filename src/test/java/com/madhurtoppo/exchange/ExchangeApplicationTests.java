@@ -1,4 +1,4 @@
-package de.scalable.capital.exchange;
+package com.madhurtoppo.exchange;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

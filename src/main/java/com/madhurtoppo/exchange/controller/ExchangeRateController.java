@@ -1,8 +1,8 @@
-package de.scalable.capital.exchange.controller;
+package com.madhurtoppo.exchange.controller;
 
-import de.scalable.capital.exchange.model.CurrencyPair;
-import de.scalable.capital.exchange.model.Forex;
-import de.scalable.capital.exchange.service.ExchangeRateService;
+import com.madhurtoppo.exchange.model.CurrencyPair;
+import com.madhurtoppo.exchange.model.Forex;
+import com.madhurtoppo.exchange.service.ExchangeRateService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

@@ -1,4 +1,4 @@
-package de.scalable.capital.exchange.model;
+package com.madhurtoppo.exchange.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package de.scalable.capital.exchange.exception;
+package com.madhurtoppo.exchange.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

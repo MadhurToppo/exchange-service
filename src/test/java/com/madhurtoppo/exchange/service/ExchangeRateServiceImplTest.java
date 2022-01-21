@@ -1,8 +1,8 @@
-package de.scalable.capital.exchange.service;
+package com.madhurtoppo.exchange.service;
 
-import de.scalable.capital.exchange.model.CurrencyPair;
-import de.scalable.capital.exchange.model.Forex;
-import de.scalable.capital.exchange.repository.ExchangeRateRepository;
+import com.madhurtoppo.exchange.model.CurrencyPair;
+import com.madhurtoppo.exchange.model.Forex;
+import com.madhurtoppo.exchange.repository.ExchangeRateRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
